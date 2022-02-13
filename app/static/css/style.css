@@ -3,11 +3,15 @@ body {
 }
 
 .makeBigger{
-    font-size: 130%;
+    font-size: 100%;
     color: black;
 }
 
 .pinkmakeBigger{
-    font-size: 110%;
+    font-size: 150%;
     color: #7d0245;
+}
+
+.CenterGothic{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
