@@ -4,9 +4,10 @@ body {
 
 .makeBigger{
     font-size: 130%;
+    color: black;
 }
 
 .pinkmakeBigger{
     font-size: 110%;
-    color: deeppink;
+    color: #7d0245;
 }
